@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm KrishnaBhadran</h1>
 <h3 align="center">A passionate frontend developer from india</h3>
-<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/animated-fat-man-coding-using-feet-kevn6jkag7jauhk8.gif">
+<img align="right" alt="Coding" width="390" src="https://gifdb.com/images/high/animated-fat-man-coding-using-feet-kevn6jkag7jauhk8.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishnabhadran&label=Profile%20views&color=0e75b6&style=flat" alt="krishnabhadran" /> </p>
 
@@ -27,4 +27,4 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/krishnabhadran"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="krishnabhadran" /></a></p><br><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=krishnabhadran&show_icons=true&locale=en&layout=compact" alt="krishnabhadran" /></p>
+
