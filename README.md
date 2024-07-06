@@ -3,8 +3,8 @@
 
 <h1 align="center">Hi 👋, I'm KrishnaBhadran</h1>
 <h3 align="center">A passionate frontend developer from india</h3>
-<img align="right" alt="Coding" width="390" src="https://gifdb.com/images/high/animated-fat-man-coding-using-feet-kevn6jkag7jauhk8.gif">
-
+<img align="right" alt="Coding" width="390" src="https://camo.githubusercontent.com/87ef775e9f61f48907be954bb53caa2610ce906eb5ec0d027e61a8b80d8cbf40/68747470733a2f2f67696664622e636f6d2f696d616765732f686967682f616e696d617465642d6661742d6d616e2d636f64696e672d7573696e672d666565742d6b65766e366a6b6167376a6175686b382e676966">
+<!-- https://gifdb.com/images/high/animated-fat-man-coding-using-feet-kevn6jkag7jauhk8.gif -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishnabhadran&label=Profile%20views&color=0e75b6&style=flat" alt="krishnabhadran" /> </p>
 
 - 🌱 I’m currently learning **backend development**
